@@ -1,3 +1,2 @@
 # IBM
-
-#Weather App
+Weather App
